@@ -4,7 +4,7 @@ module.exports = (req, res) => {
 
     // CREDENCIALES REALES DE TU RED
     const SSID_REAL = 'INFINITUME77B';
-    const CLAVE_REAL = 'eqD9P?USwe#mAUX7';
+    const CLAVE_REAL = 'eqD9P?U$we#mAUx7';
 
     // Lista de PINs autorizados
     const pinsValidos = ['27e84949', '7ei742fi9743r8', 'test1234'];
