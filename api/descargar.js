@@ -3,8 +3,8 @@ module.exports = (req, res) => {
     const userPin = req.body?.pin || req.query?.pin;
 
     // CREDENCIALES REALES DE TU RED
-    const SSID_REAL = 'TU_RED_TELMEX';
-    const CLAVE_REAL = 'miwifi26';
+    const SSID_REAL = 'INFINITUME77B';
+    const CLAVE_REAL = '7f3a9e5d2c8b1a4f6e0d9c7b5a2e8d4f';
 
     // Lista de PINs autorizados
     const pinsValidos = ['27e84949', '7ei742fi9743r8', 'test1234'];
